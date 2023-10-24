@@ -40,7 +40,7 @@ const Logo = () => {
             return(
             <article key={id} className='logo_item'>
             <div className="logo_item-image">
-              <img src={image} alt=" " />
+              <img nosave src={image} alt=" " />
               <h3>{title}</h3>
             </div>
           </article>

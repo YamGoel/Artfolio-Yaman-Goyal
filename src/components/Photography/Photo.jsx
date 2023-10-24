@@ -16,6 +16,8 @@ import IMG13 from '../../assets/Pictures/IMG13.jpg'
 import IMG14 from '../../assets/Pictures/IMG14.jpg'
 import IMG15 from '../../assets/Pictures/IMG15.jpg'
 import IMG16 from '../../assets/Pictures/IMG16.jpg'
+import IMG17 from '../../assets/Pictures/IMG17.jpg'
+import IMG18 from '../../assets/Pictures/IMG18.jpg'
 
 
 
@@ -24,6 +26,16 @@ const data = [
     id: 1,
     image: IMG1,
     place: "Cafe"
+  },
+  {
+    id: 17,
+    image: IMG17,
+    place: "Bangalore"
+  },
+  {
+    id: 18,
+    image: IMG18,
+    place: "Bangalore"
   },
   {
     id: 2,
