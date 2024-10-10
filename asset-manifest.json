@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Artfolio-Yaman-Goyal/static/css/main.007c2b59.css",
+    "main.css": "/Artfolio-Yaman-Goyal/static/css/main.2aa19f3f.css",
     "main.js": "/Artfolio-Yaman-Goyal/static/js/main.e79ab07b.js",
     "static/media/VDO1.mp4": "/Artfolio-Yaman-Goyal/static/media/VDO1.5c36a033076ae8c03be9.mp4",
     "static/media/VDO6.mp4": "/Artfolio-Yaman-Goyal/static/media/VDO6.d29a0924ab347bfef36a.mp4",
@@ -48,11 +48,11 @@
     "static/media/My Logo.png": "/Artfolio-Yaman-Goyal/static/media/My Logo.62c076fbac5452472afb.png",
     "static/media/threadbend.png": "/Artfolio-Yaman-Goyal/static/media/threadbend.8179fd9db9d0d2039ce9.png",
     "index.html": "/Artfolio-Yaman-Goyal/index.html",
-    "main.007c2b59.css.map": "/Artfolio-Yaman-Goyal/static/css/main.007c2b59.css.map",
+    "main.2aa19f3f.css.map": "/Artfolio-Yaman-Goyal/static/css/main.2aa19f3f.css.map",
     "main.e79ab07b.js.map": "/Artfolio-Yaman-Goyal/static/js/main.e79ab07b.js.map"
   },
   "entrypoints": [
-    "static/css/main.007c2b59.css",
+    "static/css/main.2aa19f3f.css",
     "static/js/main.e79ab07b.js"
   ]
 }
