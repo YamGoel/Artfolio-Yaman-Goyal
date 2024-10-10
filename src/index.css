@@ -41,7 +41,7 @@ body{
     color: var(--color-white);
     line-height: 1.7;
     /* background-image: url(../src/assets/bg-texture.jpg); */
-    background-color: rgb(33, 234, 234);
+    background-color: rgb(13, 13, 32);
 }
 
 /* ==============General Styles============ */
@@ -90,11 +90,11 @@ a:hover{
 .btn{
     width: max-content;
     display: inline-block;
-    color: black;
+    color: rgb(255, 245, 139);
     padding: .50rem .75rem;
     border-radius: 0.4rem;
     cursor: pointer;
-    border: 1px solid black;
+    border: 1px solid rgb(255, 245, 139);
     transition: var(--transition);
 }
 
