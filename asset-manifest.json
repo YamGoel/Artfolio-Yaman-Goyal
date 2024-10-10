@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Artfolio-Yaman-Goyal/static/css/main.2bd93760.css",
-    "main.js": "/Artfolio-Yaman-Goyal/static/js/main.e4100f49.js",
+    "main.css": "/Artfolio-Yaman-Goyal/static/css/main.007c2b59.css",
+    "main.js": "/Artfolio-Yaman-Goyal/static/js/main.e79ab07b.js",
     "static/media/VDO1.mp4": "/Artfolio-Yaman-Goyal/static/media/VDO1.5c36a033076ae8c03be9.mp4",
     "static/media/VDO6.mp4": "/Artfolio-Yaman-Goyal/static/media/VDO6.d29a0924ab347bfef36a.mp4",
     "static/media/VDO2.mp4": "/Artfolio-Yaman-Goyal/static/media/VDO2.be6d293e9ae311b2c36c.mp4",
@@ -32,21 +32,27 @@
     "static/media/IMG13.jpg": "/Artfolio-Yaman-Goyal/static/media/IMG13.00fe9ec89bf938bfb000.jpg",
     "static/media/IMG11.jpg": "/Artfolio-Yaman-Goyal/static/media/IMG11.eced6eb5bf9211dada86.jpg",
     "static/media/IMG4.jpg": "/Artfolio-Yaman-Goyal/static/media/IMG4.0863a20a0d63b529709d.jpg",
+    "static/media/letmeorder.png": "/Artfolio-Yaman-Goyal/static/media/letmeorder.e33bae7228c1fbfd9609.png",
+    "static/media/card2.png": "/Artfolio-Yaman-Goyal/static/media/card2.f21e65c6772c7a27dd29.png",
     "static/media/card1.png": "/Artfolio-Yaman-Goyal/static/media/card1.d0bb8d4cd458f6a48e8a.png",
     "static/media/IMG7.jpg": "/Artfolio-Yaman-Goyal/static/media/IMG7.417ddf17519fdd82f0ad.jpg",
-    "static/media/card2.png": "/Artfolio-Yaman-Goyal/static/media/card2.ca02fd0befc6d0ed1281.png",
-    "static/media/logo3.png": "/Artfolio-Yaman-Goyal/static/media/logo3.4265c058b414e1b87fb7.png",
+    "static/media/kamklick.png": "/Artfolio-Yaman-Goyal/static/media/kamklick.487eb1443173ce4df698.png",
     "static/media/birds.jpg": "/Artfolio-Yaman-Goyal/static/media/birds.4ad94b7b70eea2378ed6.jpg",
-    "static/media/logo2.png": "/Artfolio-Yaman-Goyal/static/media/logo2.71794a7f83f01c4c93de.png",
+    "static/media/fitfinity.png": "/Artfolio-Yaman-Goyal/static/media/fitfinity.c0cccf0dcdb629340f0a.png",
+    "static/media/medibed.png": "/Artfolio-Yaman-Goyal/static/media/medibed.71794a7f83f01c4c93de.png",
+    "static/media/thriftsell.png": "/Artfolio-Yaman-Goyal/static/media/thriftsell.61f7c5f9732128d05c28.png",
+    "static/media/elbed.png": "/Artfolio-Yaman-Goyal/static/media/elbed.e109f37a6212b2a3cdb2.png",
     "static/media/logo.png": "/Artfolio-Yaman-Goyal/static/media/logo.a03266c6359ea449566c.png",
-    "static/media/logo1.png": "/Artfolio-Yaman-Goyal/static/media/logo1.ad23422700d9c884ac29.png",
-    "static/media/name.png": "/Artfolio-Yaman-Goyal/static/media/name.0d9338ce9bd5e82ce8c9.png",
+    "static/media/learnasakid.png": "/Artfolio-Yaman-Goyal/static/media/learnasakid.e1291e186b3db9905cdb.png",
+    "static/media/yamangoyal.png": "/Artfolio-Yaman-Goyal/static/media/yamangoyal.e6094a06c8726c5b8dc4.png",
+    "static/media/My Logo.png": "/Artfolio-Yaman-Goyal/static/media/My Logo.62c076fbac5452472afb.png",
+    "static/media/threadbend.png": "/Artfolio-Yaman-Goyal/static/media/threadbend.8179fd9db9d0d2039ce9.png",
     "index.html": "/Artfolio-Yaman-Goyal/index.html",
-    "main.2bd93760.css.map": "/Artfolio-Yaman-Goyal/static/css/main.2bd93760.css.map",
-    "main.e4100f49.js.map": "/Artfolio-Yaman-Goyal/static/js/main.e4100f49.js.map"
+    "main.007c2b59.css.map": "/Artfolio-Yaman-Goyal/static/css/main.007c2b59.css.map",
+    "main.e79ab07b.js.map": "/Artfolio-Yaman-Goyal/static/js/main.e79ab07b.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bd93760.css",
-    "static/js/main.e4100f49.js"
+    "static/css/main.007c2b59.css",
+    "static/js/main.e79ab07b.js"
   ]
 }
