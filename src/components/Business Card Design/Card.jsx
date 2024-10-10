@@ -1,18 +1,16 @@
 import React from 'react'
 import './card.css'
-import card1 from '../../assets/card1.png'
-import card2 from '../../assets/card2.png'
+import card2 from '../../assets/card1.png'
+import card1 from '../../assets/card2.png'
 
 const data = [
   {
     id: 1,
     image: card1,
-    // title: "Artfolio"
   },
   {
     id: 2,
     image: card2,
-    // title: "KamKlick"
   }
 ]
 

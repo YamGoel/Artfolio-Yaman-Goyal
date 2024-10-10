@@ -21,6 +21,12 @@
 .logo_item-image{
     border-radius: 1.5rem;
     overflow: hidden;
+    
+}
+
+.img{
+    background-color: white;
+    min-height: 100px;
 }
 
 .logo_item h3{

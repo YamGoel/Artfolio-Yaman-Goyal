@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import NAME from '../../assets/name.png'
+import NAME from '../../assets/yamangoyal.png'
 import {LiaAwardSolid} from 'react-icons/lia'
 import {CiTimer} from 'react-icons/ci'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -22,7 +22,7 @@ const about = () => {
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Experience</h5>
-              <small>8+ Years</small>
+              <small>4+ Years</small>
             </article>
 
             <article className='about__card'>
@@ -38,8 +38,8 @@ const about = () => {
             </article>
           </div>
           <p>
-            Have been working for more than 8 years has given me a hand on various types of editing tools
-            and techniques making me dive in editorial world professionally. I have done client works and
+            Have been working for more than 4 years has given me a hand on various types of editing tools
+            and techniques making me dive in editorial world professionally. I have done several client works and
             professional works in these years. Connect with me for a professional experience.
             </p>
             <a href="#contact" id='contactbtn' className='btn btn-primary'>Let's Talk</a>

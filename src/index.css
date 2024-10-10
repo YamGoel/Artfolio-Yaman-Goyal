@@ -41,7 +41,7 @@ body{
     color: var(--color-white);
     line-height: 1.7;
     /* background-image: url(../src/assets/bg-texture.jpg); */
-    background-color: black;
+    background-color: rgb(33, 234, 234);
 }
 
 /* ==============General Styles============ */
@@ -62,8 +62,6 @@ h1{
 section{
     margin-top: 8rem;
     padding-top: .5rem;
-    /* height: 100%; */
-    /* margin-bottom: 2rem; */
 }
 
 section > h2, section > h5{
@@ -92,11 +90,11 @@ a:hover{
 .btn{
     width: max-content;
     display: inline-block;
-    color: var(--color-primary);
+    color: black;
     padding: .50rem .75rem;
     border-radius: 0.4rem;
     cursor: pointer;
-    border: 1px solid var(--color-primary);
+    border: 1px solid black;
     transition: var(--transition);
 }
 
